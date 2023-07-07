@@ -1,1 +1,1 @@
-# Airline-Management-Syatem
+# Airline-Management-System
